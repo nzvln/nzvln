@@ -1,6 +1,5 @@
 -👋 Hi, I'm @nzvln
 - 👀 I am interested in learning SWIFT
-- 🌱 I study from Usov's book
 - 📫 Kiev
 
 <!---
