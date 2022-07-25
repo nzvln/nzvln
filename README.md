@@ -1,6 +1,9 @@
--👋 Hi, I'm @nzvln
-- 👀 I am interested in learning SWIFT
-- 📫 Kiev
+<h1 align="center">Hi there, I'm <a href="https://t.me/nzvlnz" target="_blank">Nadia</a> 
+<h3 align="center">Junior iOS Developer from Kyiv, Ukraine 🇺🇦</h3>
+
+:orange_book: I'm currently learning Multithreading in iOS with Swift
+
+:computer: SKILLS: Swift, UIKit, MVC, MVP, Git, API, Autolayout, like create App without storyboard, Google is my best friend:smiling_imp:
 
 <!---
 nzvln/nzvln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
